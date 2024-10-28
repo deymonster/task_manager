@@ -34,8 +34,8 @@ Task Manager API — это RESTful API сервис для управления
 
 1. **Клонируйте репозиторий:**
 ```bash
-git clone <repository-url>
-cd task-manager-api
+git clone [<repository-url>](https://github.com/deymonster/task_manager.git)
+cd task-manager
 ```
 
 2. **Создайте файл переменных окружения:**
